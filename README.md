@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, my name is Juan Carlos Barrera B.
 
-<!--
-**Juancarlos56/Juancarlos56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently graduated from Computer Science Engineering (August 2022), experience in web and mobile development, working as a Full-Stack developer in high-performance groups, I also have knowledge in data science working on university and personal projects, experience working with eagle methodologies, knowledge in a variety of programming languages and web and mobile developer frameworks.
+_________________________________________________________________________________
 
-Here are some ideas to get you started:
+### 🛠  Languages and Tools :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Juancarlos56)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg' alt='angular' height='40'>](https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'>](https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firebase.svg' alt='firebase' height='40'>](https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flutter.svg' alt='flutter' height='40'>](https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg' alt='typescript' height='40'>](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg' alt='spring' height='40'>](https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg' alt='django' height='40'>](https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' height='40'>](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg' alt='postgresql' height='40'>](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/oracle.svg' alt='oracle' height='40'>](https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='mysql' height='40'>](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jirasoftware.svg' alt='jirasoftware' height='40'>](https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jenkins.svg' alt='jenkins' height='40'>](https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tensorflow.svg' alt='tensorflow' height='40'>](https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pytorch.svg' alt='pytorch' height='40'>](https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg) 
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juancarlos56)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juancarlos56&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Juancarlos56)  
+
+![Profile views](https://gpvc.arturio.dev/Juancarlos56)  
