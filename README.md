@@ -28,3 +28,9 @@ _______________________________________________________________________________
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Juancarlos56)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juancarlos56&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+##### Referencia: 
+- https://github.com/anuraghazra/github-readme-stats
+- https://github.com/devicons/devicon/tree/master/icons
