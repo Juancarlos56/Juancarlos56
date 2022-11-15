@@ -3,6 +3,10 @@
 Currently graduated from Computer Science Engineering (August 2022), experience in web and mobile development, working as a Full-Stack developer in high-performance groups, I also have knowledge in data science working on university and personal projects, experience working with eagle methodologies, knowledge in a variety of programming languages and web and mobile developer frameworks.
 _________________________________________________________________________________
 
+## My Web Site: 
+
+https://juancarlos56.github.io/Portafolio-Desarrollo-Web
+
 ### 🛠  Languages and Tools :
 
 
